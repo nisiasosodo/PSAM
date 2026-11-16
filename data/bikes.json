@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name" : "Bianchi Aria",
+        "type" : "road",
+        "weight" : 4,
+        "aero" : 4
+    },
+    {
+        "id": 2,
+        "name" : "Felt IA",
+        "type" : "TT",
+        "weight" : 1,
+        "aero" : 5
+    },
+    {
+        "id": 3,
+        "name" : "Ridley Noah",
+        "type" : "road",
+        "weight" : 4,
+        "aero" : 4
+    },
+    {
+        "id": 4,
+        "name" : "Ridley Helium",
+        "type" : "road",
+        "weight" : 5,
+        "aero" : 2
+    }
+]
